@@ -39,13 +39,14 @@
     var scaling = document.getElementById("tscaling").value;
     var opacityDefault = document.getElementById("topacityDefault").value;
     var opacityHover = document.getElementById("topacityHover").value;
-    var modelUrl="../assets/name/name.model.json";
+    var modelUrl="./../assets/name/name.model.json";
     document.getElementById("live2dcanvas").style.width = width + 'px';
     document.getElementById("live2dcanvas").style.height = height + 'px';
     modelUrl = modelUrl.replace(/name/g, modelName);
     console.log(modelUrl);
     // 传入id, 模型path, 重心， 缩放， 默认透明， hover透明度
     loadlive2d("live2dcanvas", modelUrl, headPos, scaling, opacityDefault, opacityHover);
+    console.log(modelUrl)
   }
   </script>
   <script type="text/javascript" src="bundle.js?7bcd089c4eae3526afb7"></script></body>
