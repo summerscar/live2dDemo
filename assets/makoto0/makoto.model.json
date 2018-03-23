@@ -1,0 +1,8 @@
+﻿{
+	"type": "Live2D Model Setting",
+	"name": "詩音マコト",
+	"model": "詩音マコト.moc",
+	"textures": [
+		"詩音マコト.2048/texture_00.png"
+	]
+}
