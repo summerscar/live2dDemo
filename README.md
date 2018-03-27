@@ -7,6 +7,34 @@
 ## 当前拥有模型
 
 ```
+├─22.2017.cba-normal
+├─22.2017.newyear
+├─22.2017.school
+├─22.2017.summer.normal.1
+├─22.2017.summer.normal.2
+├─22.2017.tomo-bukatsu.high
+├─22.2017.tomo-bukatsu.low
+├─22.2017.valley
+├─22.2017.vdays
+├─22.2018.lover
+├─22.2018.spring
+├─22.default
+├─22.xmas.1
+├─22.xmas.2
+├─33.2017.cba-normal
+├─33.2017.newyear
+├─33.2017.school
+├─33.2017.summer.normal.1
+├─33.2017.summer.normal.2
+├─33.2017.tomo-bukatsu.high
+├─33.2017.tomo-bukatsu.low
+├─33.2017.valley
+├─33.2017.vdays
+├─33.2018.lover
+├─33.2018.spring
+├─33.default
+├─33.xmas.1
+├─33.xmas.2
 ├─chitose
 ├─Epsilon2.1
 ├─Gantzert_Felixander
@@ -34,6 +62,35 @@
 ├─YuzukiYukari
 └─z16
 ```
+
+## 3.27 新增22 33模型 28个
+
+![](./screenshot/27.jpg)
+![](./screenshot/28.jpg)
+![](./screenshot/29.jpg)
+![](./screenshot/30.jpg)
+![](./screenshot/31.jpg)
+![](./screenshot/32.jpg)
+![](./screenshot/33.jpg)
+![](./screenshot/34.jpg)
+![](./screenshot/35.jpg)
+![](./screenshot/36.jpg)
+![](./screenshot/37.jpg)
+![](./screenshot/38.jpg)
+![](./screenshot/39.jpg)
+![](./screenshot/40.jpg)
+![](./screenshot/41.jpg)
+![](./screenshot/42.jpg)
+![](./screenshot/43.jpg)
+![](./screenshot/44.jpg)
+![](./screenshot/45.jpg)
+![](./screenshot/46.jpg)
+![](./screenshot/47.jpg)
+![](./screenshot/48.jpg)
+![](./screenshot/49.jpg)
+![](./screenshot/50.jpg)
+![](./screenshot/51.jpg)
+![](./screenshot/52.jpg)
 
 ## 预览
 
