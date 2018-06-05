@@ -43,6 +43,7 @@
 ├─haruto
 ├─hibiki
 ├─hijiki
+├─histoire
 ├─iio
 ├─izumi
 ├─koharu
@@ -53,7 +54,10 @@
 ├─nietzsche
 ├─nipsilon
 ├─nito
+├─penchan
+├─poi
 ├─shizuku
+├─tia
 ├─tororo
 ├─tsumiki
 ├─Unitychan
@@ -62,6 +66,9 @@
 ├─YuzukiYukari
 └─z16
 ```
+## 6.05 新增1个
+
+![](./screenshot/58.jpg)
 
 ## 4.08 新增3个
 
