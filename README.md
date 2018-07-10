@@ -49,6 +49,7 @@
 ├─koharu
 ├─makoto0
 ├─miku
+├─nepmaid
 ├─ni-j
 ├─nico
 ├─nietzsche
@@ -66,6 +67,11 @@
 ├─YuzukiYukari
 └─z16
 ```
+
+## 7.10 新增一个
+
+![](./screenshot/59.jpg)
+
 ## 6.05 新增1个
 
 ![](./screenshot/58.jpg)
