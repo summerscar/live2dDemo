@@ -56,6 +56,7 @@
 ├─nipsilon
 ├─nito
 ├─penchan
+├─PLT
 ├─poi
 ├─shizuku
 ├─tia
@@ -67,6 +68,10 @@
 ├─YuzukiYukari
 └─z16
 ```
+
+## 7.19 新增**血小板**一个
+
+![](./screenshot/60.jpg)
 
 ## 7.10 新增一个
 
