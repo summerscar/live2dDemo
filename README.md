@@ -35,6 +35,7 @@
 ├─33.default
 ├─33.xmas.1
 ├─33.xmas.2
+├─Bronya
 ├─chitose
 ├─Epsilon2.1
 ├─Gantzert_Felixander
@@ -68,6 +69,10 @@
 ├─YuzukiYukari
 └─z16
 ```
+
+## 8.03 新增布洛尼亚一个
+
+![](./screenshot/61.jpg)
 
 ## 7.19 新增**血小板**一个
 

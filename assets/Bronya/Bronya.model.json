@@ -1,0 +1,65 @@
+{
+  "version": "Live2DViewerEX Config 1.0",
+  "model": "model.moc",
+  "textures": [
+    "model.1024/texture_00.png",
+    "model.1024/texture_01.png"
+  ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": 0.0,
+    "width": 2.0
+  },
+  "hit_areas": [
+    {
+      "name": "bust",
+      "id": "bust"
+    },
+    {
+      "name": "hand",
+      "id": "hand"
+    },
+    {
+      "name": "hm",
+      "id": "hm"
+    }
+  ],
+  "motions": {
+    "tap_hand": [
+      {
+        "file": "motions/tap_hand/taphand.mtn","fade_in":1000,"fade_out":0,"text":"虽然只是铂制的指环，但是布洛妮娅会珍惜的。"
+      }
+    ],
+    "idle": [
+      {
+        "file": "motions/idle/idle.mtn","fade_in":0,"fade_out":0
+      },
+      {
+        "file": "motions/idle/idle2.mtn","fade_in":0,"fade_out":0
+      },
+      {
+        "file": "motions/idle/idle3.mtn","fade_in":0,"fade_out":0
+      },
+      {
+        "file": "motions/idle/idle4.mtn","fade_in":0,"fade_out":0
+      },
+      {
+        "file": "motions/idle/idle5.mtn","fade_in":0,"fade_out":0
+      }
+    ],
+    "tap_bust": [
+      {
+        "file": "motions/tap_bust/tapbust1.mtn","fade_in":1000,"fade_out":0,"text":"唔……隨您喜歡吧，艦長。"
+      },
+      {
+        "file": "motions/tap_bust/tapbust2.mtn","fade_in":1000,"fade_out":0,"text":"小兔，充——能——！"
+      }
+    ],
+    "tap_hm": [
+      {
+        "file": "motions/tap_hm/taphm.mtn","fade_in":1000,"fade_out":0,"text":"舰长也觉得吼美很可爱吗？布洛妮娅是属于舰长的，吼美除外。"
+      }
+    ]
+  },
+  "physics": "physics.json"
+}
