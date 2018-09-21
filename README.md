@@ -47,6 +47,7 @@
 ├─histoire
 ├─iio
 ├─izumi
+├─kesyoban
 ├─koharu
 ├─makoto0
 ├─miku
@@ -69,6 +70,10 @@
 ├─YuzukiYukari
 └─z16
 ```
+
+## 9.21 新增血小板
+
+![](./screenshot/62.jpg)
 
 ## 8.03 新增布洛尼亚一个
 
